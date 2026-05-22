@@ -1,2 +1,2 @@
 # Aula_GitHub
-Aulas sobre mexer no GitHud!!
+Aulas sobre mexer no GitHub!!
